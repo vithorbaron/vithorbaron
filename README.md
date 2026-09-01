@@ -1,16 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Vithor Baron. Welcome to my profile!</h1>
-
-<p align="center">
-  🔐 Tecnólogo em Segurança Cibernética | Técnico em Eletrônica<br/>
-  <img src="https://img.shields.io/badge/-Brasil-009C3B?style=flat-square&labelColor=002776&color=FEDF00" alt="Brasil"/>
-</p>
-
-<p align="center">
-Estudante de <b>Tecnologia em Segurança Cibernética</b> no SENAI-SP (São Caetano do Sul), com <b>Técnico em Eletrônica</b> concluído pelo SENAI Vila Mariana.<br/>
-Experiência prática em laboratórios de pentest, análise de vulnerabilidades e infraestrutura de redes. Atualmente estudo criptografia pós-quântica e, com apoio de professores, escrevo um artigo sobre o tema.<br/>
-Inglês upper intermediate/pré-advanced, com experiência internacional como palestrante no WCEF 2025.<br/>
-Em busca da minha primeira oportunidade profissional em Segurança Cibernética.
-</p>
+<h1 align="center">Hello World! I'm Vithor Baron and welcome to my profile!</h1><p align="center"> 🔐 Tecnólogo em Segurança Cibernética | Técnico em Eletrônica<br/> <img src="https://flagcdn.com/w40/br.png" width="24" alt="Brasil"/> </p> <p align="center"> Estudante de <b>Tecnologia em Segurança Cibernética</b> no SENAI-SP (São Caetano do Sul), com <b>Técnico em Eletrônica</b> concluído pelo SENAI Vila Mariana.<br/> Experiência prática em laboratórios de pentest, análise de vulnerabilidades e infraestrutura de redes. Atualmente estudo criptografia pós-quântica e, com apoio de professores, escrevo um artigo sobre o tema.<br/> Inglês upper intermediate/pré-advanced, com experiência internacional como palestrante no WCEF 2025.<br/> Em busca da minha primeira oportunidade profissional em Segurança Cibernética. </p>
 
 ---
 
@@ -89,6 +77,7 @@ Em busca da minha primeira oportunidade profissional em Segurança Cibernética.
 
 - Português — Nativo
 - Inglês — Upper Intermediate / Pré-Advanced (Cultura Inglesa; palestrante internacional, WCEF 2025)
+
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="220" alt="Kali Linux Dragon"/>
