@@ -1,8 +1,8 @@
-<h1 align="center">Hello World 👋, I'm Vithor Baron — welcome to my profile</h1>
+<h1 align="center">Hello World 👋, I'm Vithor Baron. Welcome to my profile!</h1>
 
 <p align="center">
   🔐 Tecnólogo em Segurança Cibernética | Técnico em Eletrônica<br/>
-  <img src="https://img.shields.io/badge/-Brasil-009C3B?style=flat-square&labelColor=002776&color=FEDF00" alt="Brasil"/>
+  <img src="https://img.shields.io/badge/-Brasil-009C3B?style=flat-square&labelColor=002776&color=FEDF00" alt="BRASIL"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Em busca da minha primeira oportunidade profissional em Segurança Cibernética.
   <a href="https://github.com/vithorbaron" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/vithorbaron-geronimo" target="_blank">
+  <a href="www.linkedin.com/in/vithor-baron-geronimo-561365358" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
