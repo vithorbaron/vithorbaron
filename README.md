@@ -78,38 +78,10 @@ Em busca da minha primeira oportunidade profissional em Segurança Cibernética.
 
 ---
 
-## 🚀 Projetos em destaque
-
-**CyberChase — Diagnóstico de Segurança SIMOC** · Projeto Integrador, SENAI-SP · concluído jun. 2026
-Diagnóstico de segurança completo em laboratório corporativo simulado (Proxmox VE): mapeamento de rede, enumeração de serviços e correlação com vulnerabilidades conhecidas. Identificação de convergência insegura entre TI e redes operacionais industriais. Relatório técnico formal com 12 vulnerabilidades classificadas por severidade e plano de remediação priorizado.
-
-**Extensão — Segurança Digital para Empreendedores Periféricos** · ONG Vozes da Periferia, em parceria com SENAI-SP · concluído
-Capacitação de microempreendedores em proteção de dados pessoais, boas práticas de senhas, reconhecimento de phishing e privacidade em dispositivos móveis. Produção de manual prático e relatório técnico para público não especializado, com apresentação dos resultados em congresso.
-
-**Iniciação Científica — Risco Quântico em Infraestruturas Críticas Brasileiras** · SENAI-SP · em andamento
-Pesquisa sobre o risco de "Harvest Now, Decrypt Later" em infraestruturas críticas brasileiras, com análise de exposição TLS via OSINT e estudo dos novos padrões de criptografia pós-quântica do NIST. Previsão de submissão a evento científico.
-
-**Laboratórios de Enumeração e Exploração — VulnHub** · Atividades práticas por sprint, SENAI-SP · em andamento
-Enumeração completa em máquinas vulneráveis (dc-2, dawn, Metasploitable 2, BlueMoon), cobrindo portas TCP/UDP, versões de serviço e identificação de sistema operacional, correlacionadas com CVEs conhecidos via Metasploit e searchsploit.
-
-**Infraestrutura Active Directory Virtualizada** · Projeto Integrador, SENAI-SP · concluído
-Ambiente multicamada com Windows Server como controlador de domínio (AD, DNS, DHCP, Kerberos), com Ubuntu Server e Fedora Workstation integrados via Samba e Winbind, validando autenticação centralizada entre as três máquinas.
-
----
-
 ## 🎤 Palestras e eventos
 
 - **WCEF 2025** (World Circular Economy Forum) — Palestrante Internacional
 - **Congresso ONG Vozes da Periferia**, 2026 — Palestrante, apresentação do projeto de extensão sobre segurança digital
-
----
-
-## 📜 Certificações e formação complementar
-
-- ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** — em andamento
-- 🎯 **ISC2 Certified in Cybersecurity (CC)** — exame agendado
-- 🔐 **Criptografia Pós-Quântica (NIST PQC)** — em andamento
-- 🏁 **TryHackMe e HackTheBox** — em andamento
 
 ---
 
@@ -120,10 +92,10 @@ Ambiente multicamada com Windows Server como controlador de domínio (AD, DNS, D
 
 ---
 
-## 📊 GitHub Stats
+## 🔐 Philosophy
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vithorbaron&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithorbaron&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+> "Every system speaks — you just have to know how to listen.
+> Breaking things is easy. Understanding them well enough to make them unbreakable — that's the real work."
 
+<p align="center">
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="220" alt="Kali Linux Dragon"/>
