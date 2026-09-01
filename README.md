@@ -20,7 +20,7 @@ Em busca da minha primeira oportunidade profissional em Segurança Cibernética.
   <a href="https://github.com/vithorbaron" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="www.linkedin.com/in/vithor-baron-geronimo-561365358" target="_blank">
+  <a href="www.linkedin.com/in/vithor-baron-geronimo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
