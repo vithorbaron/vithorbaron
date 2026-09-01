@@ -1,5 +1,4 @@
 <h1 align="center">Hello World! I'm Vithor Baron and welcome to my profile!</h1><p align="center"> 🔐 Tecnólogo em Segurança Cibernética | Técnico em Eletrônica<br/> <img src="https://flagcdn.com/w40/br.png" width="24" alt="Brasil"/> </p> <p align="center"> Estudante de <b>Tecnologia em Segurança Cibernética</b> no SENAI-SP (São Caetano do Sul), com <b>Técnico em Eletrônica</b> concluído pelo SENAI Vila Mariana.<br/> 
----
 
 ## 🌐 Onde me encontrar
 
