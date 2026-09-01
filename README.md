@@ -90,12 +90,5 @@ Em busca da minha primeira oportunidade profissional em Segurança Cibernética.
 - Português — Nativo
 - Inglês — Upper Intermediate / Pré-Advanced (Cultura Inglesa; palestrante internacional, WCEF 2025)
 
----
-
-## 🔐 Philosophy
-
-> "Every system speaks — you just have to know how to listen.
-> Breaking things is easy. Understanding them well enough to make them unbreakable — that's the real work."
-
 <p align="center">
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="220" alt="Kali Linux Dragon"/>
