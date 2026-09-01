@@ -2,7 +2,7 @@
 
 <p align="center">
   🔐 Tecnólogo em Segurança Cibernética | Técnico em Eletrônica<br/>
-  <img src="https://img.shields.io/badge/-Brasil-009C3B?style=flat-square&labelColor=002776&color=FEDF00" alt="BRASIL"/>
+  <img src="https://img.shields.io/badge/-Brasil-009C3B?style=flat-square&labelColor=002776&color=FEDF00" alt="Brasil"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Em busca da minha primeira oportunidade profissional em Segurança Cibernética.
   <a href="https://github.com/vithorbaron" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="(https://linkedin.com/in/vithor-baron-geronimo)" target="_blank">
+  <a href="https://www.linkedin.com/in/vithor-baron-geronimo-561365358" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -126,3 +126,4 @@ Ambiente multicamada com Windows Server como controlador de domínio (AD, DNS, D
   <img src="https://github-readme-stats.vercel.app/api?username=vithorbaron&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vithorbaron&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
+
